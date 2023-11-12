@@ -7,3 +7,11 @@ yarn dev ---inicia la aplicacion
 
 crear API Gif --> xaEwaN6GoiEEC434llxDbv6THeZvCqI5
 podcast --> atomic design 
+
+GifExpertApp
+--con este comendo se inicia
+git init
+--prepara archivos para fotografia
+git add .
+--guarda la fotografia llamada commit
+git commit -m "Primer commit"
