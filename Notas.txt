@@ -31,6 +31,14 @@ git push -u origin main
 ----- acttualiza en git
 
 git add .
-git commit -m "README agregado"
+git commit -m "README agregado o lo que le quiera poner"
+-- y ahora se manda a github
+git push 
+ya con esto lo sube a github
+
+
+----git hub pages
+
+se renombra la carpeta dis por docs, se hace nuevamente comit como en el paso de arriba
 
 

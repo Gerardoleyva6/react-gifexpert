@@ -1,4 +1,4 @@
-# RGifexpert App
+# Gifexpert App
 
 curos de fernando herrera
 
