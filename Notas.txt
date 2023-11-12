@@ -8,7 +8,9 @@ yarn dev ---inicia la aplicacion
 crear API Gif --> xaEwaN6GoiEEC434llxDbv6THeZvCqI5
 podcast --> atomic design 
 
-GifExpertApp
+------------------------
+Git
+
 --con este comendo se inicia
 git init
 --prepara archivos para fotografia
@@ -17,3 +19,18 @@ git add .
 git commit -m "Primer commit"
 --restaura el ultimo commit
 git checkout -- .
+
+---------------------------
+GitHub
+
+--previo con el commit de git con estos los subes al rapositorio
+git remote add origin https://github.com/Gerardoleyva6/react-gifexpert.git
+git branch -M main
+git push -u origin main
+
+----- acttualiza en git
+
+git add .
+git commit -m "README agregado"
+
+
