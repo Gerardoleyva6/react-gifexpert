@@ -1,0 +1,9 @@
+yarn create vite
+gif-expert-app
+cambiar o add 04- en nombre carpeta 
+en el SRC dejar solo el main y añador GifExpertApp.jsx
+yarn install
+yarn dev ---inicia la aplicacion 
+
+crear API Gif --> xaEwaN6GoiEEC434llxDbv6THeZvCqI5
+podcast --> atomic design 
