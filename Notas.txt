@@ -15,3 +15,5 @@ git init
 git add .
 --guarda la fotografia llamada commit
 git commit -m "Primer commit"
+--restaura el ultimo commit
+git checkout -- .
