@@ -43,7 +43,7 @@ se renombra la carpeta dis por docs, se hace nuevamente comit como en el paso de
 -- lo demas se ahce en pages dentro de github
 si el sitio esta roto se ahce 
 
-en el index.html se agrega la carpeta assets
+en el index.html se agrega la carpeta assets el index es del de docs
 
   <body>
     <div id="root"></div>
