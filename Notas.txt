@@ -51,3 +51,7 @@ en el index.html se agrega la carpeta assets el index es del de docs
   </body>
 </html>
 
+-----------------pruebas
+
+acceder al link https://gist.github.com/Klerith/ca7e57fae3c9ab92ad08baadc6c26177
+en este vienen todos los pasos para el so de vite
